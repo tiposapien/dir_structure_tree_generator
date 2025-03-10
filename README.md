@@ -65,18 +65,11 @@ pip install tk
 
 *(Tkinter typically built into Python, but ensure it's installed on Linux.)*
 
-### **2️⃣ Download the Script**
-You can download the script directly:
-
-```sh
-curl -O https://github.com/tiposapien/dir_structure_tree_generator/main/dir_treer.py
-```
-
 ### **3️⃣ Run the Application**
 ```sh
 python tree_viewer.py /path/to/directory 
 ```
-(pythonw ... on mac)
+(pythonw ... on mac)  
 *(If no path is provided, it defaults to the current directory.)*
 
 ---
